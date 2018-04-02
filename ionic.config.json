@@ -1,0 +1,8 @@
+{
+  "name": "FoodFeed",
+  "app_id": "ab3835fe",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
